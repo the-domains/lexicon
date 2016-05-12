@@ -1,0 +1,28 @@
+name: Lexicon
+favicon: null
+layout_spectrum: 0.26964509673416615
+typography_spectrum: 0.787265287945047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4073669924400747
+  lightness: 0.9875615793280303
+  saturation: 0.6174428439699113
+  rhythmicContrast: 0.5641775473486632
+purpose: []
